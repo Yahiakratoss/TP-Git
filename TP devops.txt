@@ -1,12 +1,16 @@
+<!DOCTYPE html>
 <html>
 <head>
 <style>
 code {
-  font-family: Consolas,"courier new";
-  color: crimson;
-  background-color: #f1f1f1;
-  padding: 2px;
+  font-family: Consolas, "Courier New", monospace;
+  color: #d63384;
+  background-color: #f8f9fa;
+  padding: 4px 8px;
   font-size: 105%;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 </style>
 </head>
